@@ -25,7 +25,7 @@ Planned features.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/webhawk.git
+git clone https://github.com/imadm01/webhawk.git
 cd webhawk
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
